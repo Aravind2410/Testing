@@ -11,4 +11,4 @@ def gre(arr,n):
 
 n = int(input("Size: "))
 arr = list(map(int,input("Enter: ").split()))
-print("the ans is given here: ",gre(arr,n))
+print("bow bow: ",gre(arr,n))
